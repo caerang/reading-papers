@@ -1,0 +1,2 @@
+jb build --path-output . contents/
+ghp-import -n -p -f _build/html/
