@@ -1,3 +1,3 @@
-# Welcome to Problem Solving
+# Reading Papers
 
-프로그래밍 연습을 하기 위한 사이트 입니다
+딥러닝 관련 논문을 읽고 정리하는 페이지 입니다.
