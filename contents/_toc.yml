@@ -5,3 +5,4 @@ format: jb-book
 root: docs/intro
 chapters:
 - file: docs/overview
+- file: docs/object-detection/YOLO-Series-Review.md
