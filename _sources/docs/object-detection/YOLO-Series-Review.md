@@ -2,7 +2,7 @@
 
 1-State Detector: 특징 추출과 객체 분류를 동시에(한 번에) 처리하는 방법, 대표적으로 YOLO 계열과 SSD 계열이 있음
 
-# YOLOv1: **You Only Look Once: Unified, Real-Time Object Detection**
+# YOLOv1: You Only Look Once: Unified, Real-Time Object Detection
 
 YOLO는 객체 검출 문제를 이미지 픽셀에서 경계 상자 좌표와 분류 확률로 직접적으로 변환하는 단일 회귀 문제로 정의 (박스 검출과 분류를 동시에 처리 함)
 
@@ -10,7 +10,7 @@ YOLO는 객체 검출 문제를 이미지 픽셀에서 경계 상자 좌표와 �
 
 **YOLOv1 Detection System**
 
-### 동시 처리 방식이 갖는 장점
+## 동시 처리 방식이 갖는 장점
 
 나중에 논문에서 정리
 
